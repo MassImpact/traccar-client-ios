@@ -1,6 +1,6 @@
-"Traccar Client" = "Traccar Client";
-"Service created" = "Service created";
-"Service destroyed" = "Service destroyed";
-"Send failed" = "Send failed";
-"Location update" = "Location update";
-"Connectivity change" = "Connectivity change";
+"Traccar Client" = "loadchief logistics";
+"Service created" = "loadchief started";
+"Service destroyed" = "loadchief disconnected";
+"Send failed" = "connection problem";
+"Location update" = "loadchief location updated";
+"Connectivity change" = "loadchief connection updated";

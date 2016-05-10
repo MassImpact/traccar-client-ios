@@ -17,6 +17,8 @@
 		<dict>
 			<key>AutocapitalizationType</key>
 			<string>None</string>
+			<key>DefaultValue</key>
+			<string>5555555555</string>
 			<key>AutocorrectionType</key>
 			<string>No</string>
 			<key>IsSecure</key>
@@ -32,7 +34,7 @@
 		</dict>
 		<dict>
 			<key>DefaultValue</key>
-			<string>demo.traccar.org</string>
+			<string>loadchief.com</string>
 			<key>Type</key>
 			<string>PSTextFieldSpecifier</string>
 			<key>Title</key>
@@ -56,7 +58,7 @@
 			<key>KeyboardType</key>
 			<string>NumberPad</string>
 			<key>DefaultValue</key>
-			<string>60</string>
+			<string>300</string>
 			<key>Type</key>
 			<string>PSTextFieldSpecifier</string>
 			<key>Title</key>

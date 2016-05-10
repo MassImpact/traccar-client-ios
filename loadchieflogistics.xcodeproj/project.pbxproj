@@ -46,7 +46,6 @@
 		CEE8A4971A72E91E00BD6DB3 /* IASKSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = CEE8A4871A72E91E00BD6DB3 /* IASKSwitch.m */; };
 		CEE8A4981A72E91E00BD6DB3 /* IASKTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = CEE8A4891A72E91E00BD6DB3 /* IASKTextField.m */; };
 		CEF2C4D71B89B92C005F472A /* TCRequestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF2C4D61B89B92C005F472A /* TCRequestManager.m */; };
-		CEF643271B919FFA00195CEA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEF643241B919FFA00195CEA /* LaunchScreen.xib */; };
 		CEF643281B919FFA00195CEA /* TCTrackingController.m in Sources */ = {isa = PBXBuildFile; fileRef = CEF643261B919FFA00195CEA /* TCTrackingController.m */; };
 		CEF6433C1B91AA9400195CEA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED4873317DB1BF6007FCF57 /* MainStoryboard.storyboard */; };
 		CEF6433D1B91AA9400195CEA /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = CEF643371B91A94600195CEA /* Localizable.strings */; };
@@ -56,6 +55,10 @@
 		E92AC04A1CE1968A008B6FCE /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E92AC0491CE1968A008B6FCE /* OpenGLES.framework */; };
 		E92AC0521CE197BE008B6FCE /* libTestFairy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E92AC04F1CE197BE008B6FCE /* libTestFairy.a */; };
 		E92AC0531CE197BE008B6FCE /* upload-dsym.sh in Resources */ = {isa = PBXBuildFile; fileRef = E92AC0511CE197BE008B6FCE /* upload-dsym.sh */; };
+		E92BD7A51CE1A80200D2F4EE /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E92BD7A41CE1A80200D2F4EE /* Launch Screen.storyboard */; };
+		E92BD7AA1CE1AA8D00D2F4EE /* iconoriginal.png in Resources */ = {isa = PBXBuildFile; fileRef = E92BD7A91CE1AA8D00D2F4EE /* iconoriginal.png */; };
+		E92BD7AC1CE1AB2F00D2F4EE /* ImageView in Resources */ = {isa = PBXBuildFile; fileRef = E92BD7AB1CE1AB2F00D2F4EE /* ImageView */; };
+		E92BD7AE1CE1AB9400D2F4EE /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E92BD7AD1CE1AB9400D2F4EE /* iTunesArtwork@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -157,7 +160,6 @@
 		CEF254DF1B9052EB001DEFD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		CEF2C4D51B89B92C005F472A /* TCRequestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCRequestManager.h; sourceTree = "<group>"; };
 		CEF2C4D61B89B92C005F472A /* TCRequestManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCRequestManager.m; sourceTree = "<group>"; };
-		CEF643241B919FFA00195CEA /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		CEF643251B919FFA00195CEA /* TCTrackingController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TCTrackingController.h; sourceTree = "<group>"; };
 		CEF643261B919FFA00195CEA /* TCTrackingController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TCTrackingController.m; sourceTree = "<group>"; };
 		CEF6432A1B91A48B00195CEA /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
@@ -174,6 +176,10 @@
 		E92AC04F1CE197BE008B6FCE /* libTestFairy.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTestFairy.a; sourceTree = "<group>"; };
 		E92AC0501CE197BE008B6FCE /* TestFairy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestFairy.h; sourceTree = "<group>"; };
 		E92AC0511CE197BE008B6FCE /* upload-dsym.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "upload-dsym.sh"; sourceTree = "<group>"; };
+		E92BD7A41CE1A80200D2F4EE /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		E92BD7A91CE1AA8D00D2F4EE /* iconoriginal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iconoriginal.png; sourceTree = "<group>"; };
+		E92BD7AB1CE1AB2F00D2F4EE /* ImageView */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ImageView; sourceTree = "<group>"; };
+		E92BD7AD1CE1AB9400D2F4EE /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -209,7 +215,7 @@
 		CED4870F17DB1BF6007FCF57 = {
 			isa = PBXGroup;
 			children = (
-				CED4872117DB1BF6007FCF57 /* TraccarClient */,
+				CED4872117DB1BF6007FCF57 /* loadchief */,
 				CEE8A4581A72E91E00BD6DB3 /* InAppSettingsKit */,
 				CEE286CF1B80839700AE7E83 /* TraccarClientTests */,
 				CED4871A17DB1BF6007FCF57 /* Frameworks */,
@@ -244,13 +250,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CED4872117DB1BF6007FCF57 /* TraccarClient */ = {
+		CED4872117DB1BF6007FCF57 /* loadchief */ = {
 			isa = PBXGroup;
 			children = (
 				E92AC04E1CE197A7008B6FCE /* TestFairy */,
-				CE5899C71B115C9100ED70D2 /* Images.xcassets */,
+				E92BD7A81CE1A97C00D2F4EE /* Resources */,
 				CED4873317DB1BF6007FCF57 /* MainStoryboard.storyboard */,
-				CEF643241B919FFA00195CEA /* LaunchScreen.xib */,
 				CEF643371B91A94600195CEA /* Localizable.strings */,
 				CED4872217DB1BF6007FCF57 /* Supporting Files */,
 				CED4872A17DB1BF6007FCF57 /* TCAppDelegate.h */,
@@ -274,8 +279,9 @@
 				CEF643251B919FFA00195CEA /* TCTrackingController.h */,
 				CEF643261B919FFA00195CEA /* TCTrackingController.m */,
 			);
-			path = TraccarClient;
-			sourceTree = "<group>";
+			name = loadchief;
+			path = "/Users/cole/!Projects/LoadChief/App Folder/ios-git/traccar-client-ios/TraccarClient";
+			sourceTree = "<absolute>";
 		};
 		CED4872217DB1BF6007FCF57 /* Supporting Files */ = {
 			isa = PBXGroup;
@@ -389,6 +395,18 @@
 			name = TestFairy;
 			sourceTree = "<group>";
 		};
+		E92BD7A81CE1A97C00D2F4EE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E92BD7AD1CE1AB9400D2F4EE /* iTunesArtwork@2x.png */,
+				E92BD7A91CE1AA8D00D2F4EE /* iconoriginal.png */,
+				CE5899C71B115C9100ED70D2 /* Images.xcassets */,
+				E92BD7A41CE1A80200D2F4EE /* Launch Screen.storyboard */,
+				E92BD7AB1CE1AB2F00D2F4EE /* ImageView */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -438,6 +456,11 @@
 				TargetAttributes = {
 					CED4871717DB1BF6007FCF57 = {
 						DevelopmentTeam = VU5PM355D9;
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 0;
+							};
+						};
 					};
 					CEE286CD1B80839600AE7E83 = {
 						CreatedOnToolsVersion = 6.4;
@@ -445,7 +468,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CED4871317DB1BF6007FCF57 /* Build configuration list for PBXProject "loadchief" */;
+			buildConfigurationList = CED4871317DB1BF6007FCF57 /* Build configuration list for PBXProject "loadchieflogistics" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -483,12 +506,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEF6433C1B91AA9400195CEA /* MainStoryboard.storyboard in Resources */,
+				E92BD7AE1CE1AB9400D2F4EE /* iTunesArtwork@2x.png in Resources */,
+				E92BD7AA1CE1AA8D00D2F4EE /* iconoriginal.png in Resources */,
 				CEF6433D1B91AA9400195CEA /* Localizable.strings in Resources */,
 				CE5899C81B115C9100ED70D2 /* Images.xcassets in Resources */,
 				E92AC0531CE197BE008B6FCE /* upload-dsym.sh in Resources */,
 				CEE8A4931A72E91E00BD6DB3 /* IASKLocalizable.strings in Resources */,
-				CEF643271B919FFA00195CEA /* LaunchScreen.xib in Resources */,
+				E92BD7AC1CE1AB2F00D2F4EE /* ImageView in Resources */,
 				CED4879B17DB1E61007FCF57 /* InAppSettings.bundle in Resources */,
+				E92BD7A51CE1A80200D2F4EE /* Launch Screen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -683,7 +709,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/TraccarClient",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.traccar.client.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.loadchief.logistics;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -705,7 +731,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/TraccarClient",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.traccar.client.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.loadchief.logistics;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -783,7 +809,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CED4871317DB1BF6007FCF57 /* Build configuration list for PBXProject "loadchief" */ = {
+		CED4871317DB1BF6007FCF57 /* Build configuration list for PBXProject "loadchieflogistics" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CED4873C17DB1BF6007FCF57 /* Debug */,

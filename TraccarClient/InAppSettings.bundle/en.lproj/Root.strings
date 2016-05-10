@@ -1,5 +1,5 @@
-"Device identifier" = "Device identifier";
-"Server address" = "Server address";
-"Server port" = "Server port";
-"Frequency" = "Frequency";
-"Service status" = "Service status";
+"Device identifier" = "User Phone Number";
+"Server address" = "loadchief server (loadchief.com)";
+"Server port" = "loadchief server number (5505)";
+"Frequency" = "Update Frequency";
+"Service status" = "loadchief status";

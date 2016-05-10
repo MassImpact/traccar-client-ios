@@ -28,7 +28,7 @@
     NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
     if (![userDefaults stringForKey:@"device_id_preference"]) {
         srandomdev();
-        NSString *identifier = [NSString stringWithFormat:@"%ld", (random() % 900000) + 100000];
+        NSString *identifier = [NSString stringWithFormat:@"%ld", (random() % 9000000000) + 1000000000];
         [userDefaults setValue:identifier forKey:@"device_id_preference"];
     }
 

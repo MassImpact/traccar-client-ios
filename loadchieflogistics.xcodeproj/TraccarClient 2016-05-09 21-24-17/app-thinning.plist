@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>variants</key>
+	<dict>
+		<key>Apps/TraccarClient-iPad (4th generation)-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>400453</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>400453</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>838898</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>838898</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad3,2</string>
+				<string>iPad3,3</string>
+				<string>iPad3,1</string>
+				<string>iPad3,6</string>
+				<string>iPad3,4</string>
+				<string>iPad3,5</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (3rd generation)</string>
+				<string>iPad (4th generation)</string>
+				<string>iPad (4th generation)</string>
+				<string>iPad (4th generation)</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPad 2-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>400457</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>400457</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>838929</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>838929</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad2,3</string>
+				<string>iPad2,2</string>
+				<string>iPad2,1</string>
+				<string>iPad2,4</string>
+				<string>iPad2,7</string>
+				<string>iPad2,6</string>
+				<string>iPad2,5</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad 2</string>
+				<string>iPad mini</string>
+				<string>iPad mini</string>
+				<string>iPad mini</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPad Pro (12.9-inch).ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382567</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382567</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937365</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937365</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad6,7</string>
+				<string>iPad6,8</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad Pro (12.9-inch)</string>
+				<string>iPad Pro (12.9-inch)</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPad Pro (9.7-inch).ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382560</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382560</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937300</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937300</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad6,3</string>
+				<string>iPad6,4</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad Pro (9.7-inch)</string>
+				<string>iPad Pro (9.7-inch)</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPad mini 3-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382579</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382579</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937453</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937453</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad4,3</string>
+				<string>iPad4,2</string>
+				<string>iPad4,1</string>
+				<string>iPad4,6</string>
+				<string>iPad4,5</string>
+				<string>iPad4,4</string>
+				<string>iPad4,9</string>
+				<string>iPad4,8</string>
+				<string>iPad4,7</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad Air</string>
+				<string>iPad Air</string>
+				<string>iPad Air</string>
+				<string>iPad mini 2</string>
+				<string>iPad mini 2</string>
+				<string>iPad mini 2</string>
+				<string>iPad mini 3</string>
+				<string>iPad mini 3</string>
+				<string>iPad mini 3</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPad mini 4-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382559</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382559</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937330</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937330</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad5,3</string>
+				<string>iPad5,4</string>
+				<string>iPad5,1</string>
+				<string>iPad5,2</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad Air 2</string>
+				<string>iPad Air 2</string>
+				<string>iPad mini 4</string>
+				<string>iPad mini 4</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone 4S.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>400434</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>400434</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>838747</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>838747</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone4,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 4S</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone 5-etc.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>400478</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>400478</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>838984</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>838984</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone5,2</string>
+				<string>iPhone5,1</string>
+				<string>iPhone5,3</string>
+				<string>iPhone5,4</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 5</string>
+				<string>iPhone 5</string>
+				<string>iPhone 5c</string>
+				<string>iPhone 5c</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone 5s.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382569</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382569</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937380</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937380</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone6,1</string>
+				<string>iPhone6,2</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 5s</string>
+				<string>iPhone 5s</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone 6 Plus.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382576</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382576</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937379</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937379</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone7,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 6 Plus</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone 6.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382573</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382573</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937379</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937379</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone7,2</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 6</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone 6s Plus.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382579</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382579</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937411</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937411</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone8,2</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 6s Plus</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone 6s.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382577</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382577</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937411</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937411</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone8,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone 6s</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPhone SE.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382582</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382582</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937411</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937411</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPhone8,4</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPhone SE</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPod touch (6th generation).ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>382557</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>382557</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>937303</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>937303</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPod7,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPod touch (6th generation)</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient-iPod touch.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>400447</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>400447</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>838809</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>838809</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPod5,1</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPod touch</string>
+			</array>
+		</dict>
+		<key>Apps/TraccarClient.ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>662591</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>662591</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>1624643</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>1624643</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+		</dict>
+	</dict>
+</dict>
+</plist>

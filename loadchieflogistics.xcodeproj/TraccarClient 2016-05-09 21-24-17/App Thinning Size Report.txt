@@ -1,0 +1,120 @@
+
+App Thinning Size Report for All Variants of TraccarClient
+
+Variant: TraccarClient-iPad (4th generation)-etc.ipa
+Supported devices: iPad (3rd generation) and iPad (4th generation)
+App + On Demand Resources size: 400 KB compressed, 839 KB uncompressed
+App size: 400 KB compressed, 839 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPad 2-etc.ipa
+Supported devices: iPad 2 and iPad mini
+App + On Demand Resources size: 400 KB compressed, 839 KB uncompressed
+App size: 400 KB compressed, 839 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPad Pro (12.9-inch).ipa
+Supported devices: iPad Pro (12.9-inch)
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPad Pro (9.7-inch).ipa
+Supported devices: iPad Pro (9.7-inch)
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPad mini 3-etc.ipa
+Supported devices: iPad Air, iPad mini 2, and iPad mini 3
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPad mini 4-etc.ipa
+Supported devices: iPad Air 2 and iPad mini 4
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone 4S.ipa
+Supported devices: iPhone 4S
+App + On Demand Resources size: 400 KB compressed, 839 KB uncompressed
+App size: 400 KB compressed, 839 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone 5-etc.ipa
+Supported devices: iPhone 5 and iPhone 5c
+App + On Demand Resources size: 400 KB compressed, 839 KB uncompressed
+App size: 400 KB compressed, 839 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone 5s.ipa
+Supported devices: iPhone 5s
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone 6 Plus.ipa
+Supported devices: iPhone 6 Plus
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone 6.ipa
+Supported devices: iPhone 6
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone 6s Plus.ipa
+Supported devices: iPhone 6s Plus
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone 6s.ipa
+Supported devices: iPhone 6s
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPhone SE.ipa
+Supported devices: iPhone SE
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPod touch (6th generation).ipa
+Supported devices: iPod touch (6th generation)
+App + On Demand Resources size: 383 KB compressed, 937 KB uncompressed
+App size: 383 KB compressed, 937 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient-iPod touch.ipa
+Supported devices: iPod touch
+App + On Demand Resources size: 400 KB compressed, 839 KB uncompressed
+App size: 400 KB compressed, 839 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: TraccarClient.ipa
+Supported devices: Universal
+App + On Demand Resources size: 663 KB compressed, 1.6 MB uncompressed
+App size: 663 KB compressed, 1.6 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
