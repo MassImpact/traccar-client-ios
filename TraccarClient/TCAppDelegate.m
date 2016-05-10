@@ -15,11 +15,15 @@
 //
 
 #import "TCAppDelegate.h"
+#import "TestFairy.h"
+
 
 @implementation TCAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
+    [TestFairy begin:@"850e489b2f467f39e7b0154210675609262b1c13"];
+    
     // Initialize device identifier
     NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
     if (![userDefaults stringForKey:@"device_id_preference"]) {
